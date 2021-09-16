@@ -1,3 +1,8 @@
+<p align="center">
+     <img src="https://readme-typing-svg.herokuapp.com/?font=&center=true&width=380&height=45&lines=Anderson+Fernandes+do+Nascimento;Open+Source+Lover+%E2%9D%A4;Consultant+developer+at+TOTVS;Software+craftsmanship+%F0%9F%92%8E;Nice+to+meet+you+%F0%9F%98%84" />
+ 
+</p>
+
 ![afernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=afernandes&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afernandes&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
