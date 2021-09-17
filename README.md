@@ -1,7 +1,13 @@
 <p align="center">
-     <img src="https://readme-typing-svg.herokuapp.com/?font=&center=true&width=380&height=45&lines=Anderson+Fernandes+do+Nascimento;Open+Source+Lover+%E2%9D%A4;Consultant+developer+at+TOTVS;Software+craftsmanship+%F0%9F%92%8E;Nice+to+meet+you+%F0%9F%98%84" />
+     <img src="https://readme-typing-svg.herokuapp.com/?font=&center=true&width=380&height=45&lines=Anderson+Fernandes+do+Nascimento;Open+Source+Lover+%E2%9D%A4;Consultant+software+developer+at+TOTVS;Software+craftsmanship+%F0%9F%92%8E;Nice+to+meet+you+%F0%9F%98%84" />
 
+### 👋 Welcome!
+
+Here something about me:     
+     
 I'm a software developer passionate for <b>#opensource</b>, <b>#code</b>.
+- 🔭 I’m currently working at TOTVS S/A as Consultant Software Developer
+- 💬 Ask me about Development      
      
 <p align="center"> 
   <a href="https://github.com/afernandes">
@@ -26,11 +32,11 @@ I'm a software developer passionate for <b>#opensource</b>, <b>#code</b>.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working at TOTVS S/A as Consultant Software Developer 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about Development 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
